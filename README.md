@@ -31,3 +31,4 @@
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.  
   
   
+  
